@@ -1,2 +1,7 @@
 # shopping-app
+
 IBM React lab
+
+-npm install -s
+
+-npm start
